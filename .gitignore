@@ -79,3 +79,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# python
+.ropeproject/
+
+# html file
+*.html

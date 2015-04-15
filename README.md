@@ -17,14 +17,14 @@ inspire by [ruanyf](https://github.com/ruanyf/fortunes)
 
 ## build data
 
-   ./build.sh 
+    ./build.sh 
 
 ## install fortune and copy data file
 
     # Debian/Ubuntu
     $ sudo apt-get install fortune
-    $ sudo cp fortunes/data/* /usr/share/games/fortunes/
+    $ sudo cp data/* /usr/share/games/fortunes/
 
     # Mac
     $ brew install fortune
-    $ sudo cp fortunes/data/* /usr/local/Cellar/fortune/9708/share/games/fortunes
+    $ sudo cp data/* /usr/local/Cellar/fortune/9708/share/games/fortunes

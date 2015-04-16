@@ -28,3 +28,7 @@ inspire by [ruanyf](https://github.com/ruanyf/fortunes)
     # Mac
     $ brew install fortune
     $ sudo cp data/* /usr/local/Cellar/fortune/9708/share/games/fortunes
+
+## preview
+
+![tang.png](https://raw.githubusercontent.com/hustlijian/fortunes/master/tang.png)
